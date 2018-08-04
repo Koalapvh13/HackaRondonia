@@ -2,4 +2,9 @@
     <string name="app_name">GPS</string>
     <string name="login">LOGIN</string>
     <string name="cad">CADASTRO</string>
+    <string name="nome">NOME*</string>
+    <string name="tel">TELEFONE*</string>
+    <string name="email">E-MAIL*</string>
+    <string name="cpf">CPF*</string>
+    <string name="cadastro">CADASTRAR</string>
 </resources>

@@ -1,4 +1,7 @@
 <resources>
     <!-- Default screen margins, per the Android Design guidelines. -->
     <dimen name="elevation">50dp</dimen>
+    <dimen name="top_margin">10dp</dimen>
+    <dimen name="topp">100</dimen>
+    <dimen name="TopBTN">20dp</dimen>
 </resources>
